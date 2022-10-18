@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning about "pensamento computacional" and 
 artistic knowledge
 - 💞️ I’m looking to collaborate on musician aspects
-- 📫 How to reach me: My number 41 996524967
+- 📫 How to reach me: My email: marcelo.senra@escola.pr.gov.br
 - 👨‍🏫 - I am a music and art teacher
 - 🏈 - I love playing football and I follow my favorite team: Coritiba
 - 
