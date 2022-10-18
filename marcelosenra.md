@@ -1,3 +1,6 @@
+# Quem sou eu?
+## Um cara legal
+### Ou talvez não
 - 👋 Hi, I’m @marcelosenra
 - 👀 I’m interested in news technology
 - 🌱 I’m currently learning about "pensamento computacional" and 
