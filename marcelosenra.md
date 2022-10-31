@@ -23,7 +23,6 @@ artistic knowledge
 
 # Imagens Bandae6
 
-<a href=””><img src=”https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EUu_kiw14XITfcZTRcG11CGuhtFxkxnoiY6QDC9R32NWo_XfxKjSyuViXU3eNVFYRP8&usqp=CAU”></img></a>?
 <a href=””><img src=”https://i.scdn.co/image/ab67616d0000b27316102b3093a40db72a38c1f2”></img></a>?
 
 marcelosenra/marcelosenra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
