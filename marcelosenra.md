@@ -23,7 +23,7 @@ artistic knowledge
 
 # Imagens Bandae6
 
-<a href=””><img src=”https://i.scdn.co/image/ab67616d0000b27316102b3093a40db72a38c1f2”></img></a>?
+
 
 marcelosenra/marcelosenra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
