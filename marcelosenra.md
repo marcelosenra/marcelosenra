@@ -16,6 +16,10 @@ artistic knowledge
 - |Nascimento|1984|
 - |Dia|08|
 - |mês|12|
+
+##link para ouvir as músicas
+[Bandae6] (https://www.soundcloud.com/bandae6)
+
 - 
 <!---
 marcelosenra/marcelosenra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
