@@ -10,7 +10,7 @@ artistic knowledge
 - 👨‍🏫 - I am a music and art teacher
 - 🏈 - I love playing football and I follow my favorite team: Coritiba
 - **minha data de nascimento**
-- |Tabela |Némuro |
+- |Tabela |Número |
 - |-----|-----|
 - |Idade|37|
 - |Nascimento|1984|
