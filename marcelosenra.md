@@ -19,7 +19,7 @@ artistic knowledge
 
 ## link para ouvir as músicas
 [Bandae6] (https://www.soundcloud.com/bandae6)
-
+<a href=””><img src=”link da imagem”></img></a> 
 - 
 <!---
 marcelosenra/marcelosenra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
