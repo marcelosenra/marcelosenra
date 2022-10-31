@@ -17,7 +17,7 @@ artistic knowledge
 - |Dia|08|
 - |mês|12|
 
-##link para ouvir as músicas
+## link para ouvir as músicas
 [Bandae6] (https://www.soundcloud.com/bandae6)
 
 - 
