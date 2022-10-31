@@ -9,6 +9,12 @@ artistic knowledge
 - 📫 How to reach me: My email: marcelo.senra@escola.pr.gov.br
 - 👨‍🏫 - I am a music and art teacher
 - 🏈 - I love playing football and I follow my favorite team: Coritiba
+- **minha data de nascimento**
+- |-----|-----|
+- |Idade|37|
+- |Nascimento|1984|
+- |Dia|08|
+- |mês|12|
 - 
 <!---
 marcelosenra/marcelosenra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
